@@ -10,7 +10,7 @@
       {
         "name": "clang",
         "repo": "https://github.com",
-        "branch": "main"
+        "branch": "master"
       }
     ],
     "params": {
