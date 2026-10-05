@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "nethunter_kernel_samsung_a32",
+      "name": "nethunter_kernel_samsung_mt6768",
       "repo": "https://github.com",
       "branch": "master",
       "device": "f22"
@@ -10,13 +10,12 @@
       {
         "name": "clang",
         "repo": "https://github.com",
-        "branch": "master"
+        "branch": "main"
       }
     ],
     "params": {
       "ARCH": "arm64",
       "CROSS_COMPILE": "aarch64-linux-gnu-",
-      "CROSS_COMPILE_ARM32": "arm-linux-gnueabi-",
       "CC": "clang"
     },
     "withKernelSU": false
