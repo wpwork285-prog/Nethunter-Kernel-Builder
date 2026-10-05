@@ -2,14 +2,14 @@
   {
     "kernelSource": {
       "name": "nethunter_kernel_samsung_mt6768",
-      "repo": "https://github.com",
+      "repo": "https://github.com/karamdev1/nethunter_kernel_samsung_mt6768.git",
       "branch": "master",
       "device": "f22"
     },
     "toolchains": [
       {
         "name": "clang",
-        "repo": "https://github.com",
+        "repo": "https://github.com/kdrag0n/proton-clang.git",
         "branch": "master"
       }
     ],
